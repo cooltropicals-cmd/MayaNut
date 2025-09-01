@@ -1,41 +1,29 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>MayaNut</title>
-    <style>
-        /* CSS for styling */
-body {
-    font-family: Arial, sans-serif;
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>MayaNut Company</title>
+  <style>
+    /* Make entire page black with centered white text */
+    body {
+      background-color: black;
+      color: white;
+      font-family: Arial, sans-serif;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      margin: 0;
     }
-            margin: 20px;
-            background-color: #f4f4f4;
-            color: #333;
-        }
-        h1 {
-            color: #0056b3;
-        }
-        p {
-            line-height: 1.6;
-        }
-    </style>
+
+    h1 {
+      font-size: 2rem;
+      text-align: center;
+    }
+  </style>
 </head>
 <body>
-    <header>
-        <h1>Welcome to MayaNut Agriculture, Bringing the MayaNut tree to South Florida</h1>
-    </header>
-    <main>
-        <p>This is a simple static HTML page. Its content remains the same unless explicitly updated in the source code.</p>
-        <p>You can add more paragraphs, images, or other HTML elements here.</p>
-    </main>
-    <footer>
-        <p>&copy; 2025 MayaNut. All rights reserved.</p>
-    </footer>
-
-    <script>
-        // Optional JavaScript for interactivity (e.g., a simple alert)
-        // alert("Hello from my static page!");
-    </script>
+  <h1>MayaNut Company of South Florida</h1>
 </body>
 </html>
