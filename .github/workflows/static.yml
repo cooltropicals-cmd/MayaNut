@@ -1,26 +1,10 @@
 <!DOCTYPE html>
-<html lang="en">
+<html>
 <head>
-  <meta charset="UTF-8" />
-  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-  <title>MayaNut Company</title>
-  <style>
-      color: white;
-      font-family: Arial, sans-serif;
-      display: flex;
-      justify-content: center;
-      align-items: center;
-      height: 100vh;
-      margin: 0;
-    }
-
-    h1 {
-      font-size: 2rem;
-      text-align: center;
-    }
-  </style>
+    <meta charset="UTF-8">
+    <title>MayaNut.com is Taken Haha</title>
 </head>
 <body>
-  <h1>MayaNut Company of South Florida</h1>
+
 </body>
 </html>
