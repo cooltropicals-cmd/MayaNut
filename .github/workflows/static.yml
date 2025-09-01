@@ -5,9 +5,7 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>MayaNut Company</title>
   <style>
-    /* Make entire page black with centered white text */
-    body {
-      background-color: black;
+  background-color: black;
       color: white;
       font-family: Arial, sans-serif;
       display: flex;
