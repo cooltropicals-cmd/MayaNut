@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>MayaNut Company</title>
+    <style>
+      body {
+        background-color: black;
+        color: white;
+        font-family: Arial, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100vh;
+        margin: 0;
+      }
+
+      h1 {
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>MayaNut Company of South Florida</h1>
+  </body>
+</html>
